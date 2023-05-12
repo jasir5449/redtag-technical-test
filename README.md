@@ -4,7 +4,7 @@
 
 <h2>🚀 Demo</h2>
 
-[https://redtag.cameomanjachola.com/home](https://redtag.cameomanjachola.com/home)
+[https://redtag.cameomanjachola.com](https://redtag.cameomanjachola.com)
 
   
   
